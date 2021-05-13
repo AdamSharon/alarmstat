@@ -2,6 +2,7 @@
 
 CLI to know which town got the highest number of missle barrages.
 
+based on https://github.com/yuvadm/alarmpy
 ### install
 
 ```bash
